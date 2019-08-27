@@ -1,7 +1,9 @@
 # Marketing Analytics by Looker
 
 LookML files for cross-channel analysis for the digital marketing application. This project combines multiple data sources, such as
+
 Google Ads and Facebook Ads and presents the data on Overview and Campaigns dashboards.
+
 This project includes dashboards and explores.
 
 Note: This requires the Project Import feature currently in /admin/labs to be enabled on your Looker instance.
